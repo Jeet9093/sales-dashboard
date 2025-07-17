@@ -10,3 +10,4 @@ dynamic and responsive to user input. Visualizations update in real-time based o
 selected criteria, allowing for detailed comparisons and trend analysis. The geographical 
 map highlights sales distribution across countries or regions, while category-wise
 breakdowns identify top-performing products and segments.
+Example: Snapshot : https://github.com/Jeet9093/sales-dashboard/commit/82ae386be189bc2f3a44821e1761d74f545f8203
